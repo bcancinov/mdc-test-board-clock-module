@@ -11,5 +11,15 @@ Test board for the `mdc-clock-module`. Provides a 10 MHz LVDS oscillator to driv
 ## Control Interface
 - Programmable via external 3.3V microcontroller using SPI or I2C.
 
+## Board Dimensions
+- 59.4 mm x 45.5 mm
+
 ## Files
 - Schematic: `test_board_clock_module.pdf`
+
+## Images
+Layout:
+![Layout](img/layout.jpg)
+
+3D view:
+![3D view](img/3d.jpg)
