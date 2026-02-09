@@ -14,6 +14,9 @@ Test board for the `mdc-clock-module`. Provides a 10 MHz LVDS oscillator to driv
 ## Board Dimensions
 - 59.4 mm x 45.5 mm
 
+## Board Stackup
+- 4-layer PCB
+
 ## Files
 - Schematic: `test_board_clock_module.pdf`
 
