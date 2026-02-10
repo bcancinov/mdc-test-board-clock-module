@@ -17,6 +17,9 @@ Test board for the `mdc-clock-module`. Provides a 10 MHz LVDS oscillator to driv
 ## Board Stackup
 - 4-layer PCB
 
+## CAD
+- Designed using KiCad 9.
+
 ## Files
 - Schematic: `test_board_clock_module.pdf`
 
